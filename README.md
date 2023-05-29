@@ -1,21 +1,5 @@
-<p align="center">
-  <a href="https://github.com/youcefKNL?tab=repositories"><img src="https://badgen.net/badge/icon/github?icon=github&label"></a></p>
-  <p align="center">
-  Voici le lien vers le site web : https://youcefKNL.github.io/OC_Projet5_NinaCarducci/
-</p>
-<p align="center">
-  <img src="https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=103">
-</p>
-![Logo](https://meilleur-mooc.fr/wp-content/uploads/2021/11/Openclassrooms.png)
 
-## BADGE
-
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/powered-by-water.svg">
-  <img src="https://forthebadge.com/images/badges/uses-js.svg">
-  <img src="https://forthebadge.com/images/badges/uses-html.svg">
-  <img src="https://forthebadge.com/images/badges/uses-css.svg">
-  <img src="https://forthebadge.com/images/badges/0-percent-optimized.svg">
+  Voici le lien vers le site web :https://github.com/creacress/ninacarducci
 </p>
 
 # Débuggez et optimisez un site de photographe
