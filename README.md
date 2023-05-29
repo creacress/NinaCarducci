@@ -92,18 +92,18 @@ Mission 0 to 100% :
 S.E.O. optimization and accessibility
 
 <p align="center">
-  <img src="https://github.com/youcefKNL/OC_Projet5_NinaCarducci/blob/master/seo%20img.png">
+  <img src="seo img.png">
 </p>
 
 ## 🛠 Skills
 
 S.E.O. tools, google tools, shema.org, Web Content Accessibility Guidelines (WCAG) ...
 
-# Hi, I'm Youcef! 👋
+### Compétences évoluées :
 
-https://github.com/youcefKNL?tab=repositories
++ Optimiser la performance d'un site web 🔥
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-cresson/)
