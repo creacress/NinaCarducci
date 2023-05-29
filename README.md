@@ -13,7 +13,7 @@ Vous êtes développeur freelance, et vous décidez de proposer vos services d�
 
 Nina répond positivement à votre demande en vous demandant une optimisation de son site. Vous allez donc optimiser son site selon ses demandes indiquées dans son mail plus bas, et lui fournir un rapport détaillé de votre intervention.
 
-## Mail ENVOYÉ
+## Mail envoyé
 
 Voici l’e-mail que vous aviez envoyé à Nina avec votre proposition :
 
@@ -50,7 +50,7 @@ Voici l’e-mail que vous aviez envoyé à Nina avec votre proposition :
 
 Nina a répondu favorablement à votre demande, et a convenu d’un rendez-vous téléphonique avec vous pour discuter des détails de l’optimisation du site. Voici le replay de la discussion que vous avez eue avec Nina. Pensez à prendre en note les informations importantes en écoutant l'audio.
 
-## Mail RECU
+## Mail reçu
 
 Suite à votre discussion, vous recevez un mail de Nina :
 
@@ -104,6 +104,5 @@ S.E.O. tools, google tools, shema.org, Web Content Accessibility Guidelines (WCA
 + Optimiser la performance d'un site web 🔥
 
 ## 🔗 Links
-
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-cresson/)
