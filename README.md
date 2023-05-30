@@ -87,8 +87,6 @@ Suite à votre discussion, vous recevez un mail de Nina :
 
 ## Optimizations
 
-Mission 0 to 100% :
-
 S.E.O. optimization and accessibility
 
 <p align="center">
