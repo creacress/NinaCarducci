@@ -1,7 +1,7 @@
 // Attendre que le document HTML soit entièrement chargé
 document.addEventListener("DOMContentLoaded", function () {
   // Sélectionner tous les éléments avec la classe "gallery"
-  var galleryElements = document.querySelectorAll(".gallery");
+  const galleryElements = document.querySelectorAll(".gallery");
 
   // Parcourir chaque élément de la galerie
   galleryElements.forEach(function (element) {
